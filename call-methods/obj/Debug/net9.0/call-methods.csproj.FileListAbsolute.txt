@@ -1,0 +1,15 @@
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\bin\Debug\net9.0\call-methods.exe
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\bin\Debug\net9.0\call-methods.deps.json
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\bin\Debug\net9.0\call-methods.runtimeconfig.json
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\bin\Debug\net9.0\call-methods.dll
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\bin\Debug\net9.0\call-methods.pdb
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.AssemblyInfoInputs.cache
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.AssemblyInfo.cs
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.csproj.CoreCompileInputs.cache
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.sourcelink.json
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.dll
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\refint\call-methods.dll
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.pdb
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\call-methods.genruntimeconfig.cache
+C:\Users\sbl\Documents\GitHub\Learning-CSharp\call-methods\obj\Debug\net9.0\ref\call-methods.dll

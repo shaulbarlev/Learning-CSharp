@@ -1,0 +1,15 @@
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\bin\Debug\net9.0\fahrenheightToCelcius.exe
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\bin\Debug\net9.0\fahrenheightToCelcius.deps.json
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\bin\Debug\net9.0\fahrenheightToCelcius.runtimeconfig.json
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\bin\Debug\net9.0\fahrenheightToCelcius.dll
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\bin\Debug\net9.0\fahrenheightToCelcius.pdb
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.AssemblyInfoInputs.cache
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.AssemblyInfo.cs
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.csproj.CoreCompileInputs.cache
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.sourcelink.json
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.dll
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\refint\fahrenheightToCelcius.dll
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.pdb
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\fahrenheightToCelcius.genruntimeconfig.cache
+C:\Users\sbl\Documents\GitHub\fahrenhheitToCelcius\fahrenheightToCelcius\obj\Debug\net9.0\ref\fahrenheightToCelcius.dll

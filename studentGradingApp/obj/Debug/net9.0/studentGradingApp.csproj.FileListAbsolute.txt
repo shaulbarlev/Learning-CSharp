@@ -1,0 +1,15 @@
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\bin\Debug\net9.0\studentGradingApp.exe
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\bin\Debug\net9.0\studentGradingApp.deps.json
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\bin\Debug\net9.0\studentGradingApp.runtimeconfig.json
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\bin\Debug\net9.0\studentGradingApp.dll
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\bin\Debug\net9.0\studentGradingApp.pdb
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.AssemblyInfoInputs.cache
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.AssemblyInfo.cs
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.csproj.CoreCompileInputs.cache
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.sourcelink.json
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.dll
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\refint\studentGradingApp.dll
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.pdb
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\studentGradingApp.genruntimeconfig.cache
+C:\Users\sbl\Documents\GitHub\studentGradingApp\studentGradingApp\obj\Debug\net9.0\ref\studentGradingApp.dll

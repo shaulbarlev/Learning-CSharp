@@ -1,0 +1,15 @@
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\bin\Debug\net9.0\studentGPACalculator.exe
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\bin\Debug\net9.0\studentGPACalculator.deps.json
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\bin\Debug\net9.0\studentGPACalculator.runtimeconfig.json
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\bin\Debug\net9.0\studentGPACalculator.dll
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\bin\Debug\net9.0\studentGPACalculator.pdb
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.AssemblyInfoInputs.cache
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.AssemblyInfo.cs
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.sourcelink.json
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.dll
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\refint\studentGPACalculator.dll
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.pdb
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\studentGPACalculator.genruntimeconfig.cache
+C:\Users\sbl\Documents\GitHub\studentGPACalculator\studentGPACalculator\obj\Debug\net9.0\ref\studentGPACalculator.dll
